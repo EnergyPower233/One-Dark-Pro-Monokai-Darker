@@ -1,0 +1,31 @@
+{
+  "name": "One Dark Pro Monokai Darker",
+  "source": "https://github.com/eser/vscode-one-dark-pro-monokai-darker",
+  "source_sha256": "ea4e3e0e0b8628bebbcbaaa699a50ebadbfafc8698364e436a0205ff2082e1f8",
+  "colors": {
+    "Ansi 0 Color": "#121212",
+    "Ansi 1 Color": "#e06c75",
+    "Ansi 2 Color": "#98c379",
+    "Ansi 3 Color": "#e5c07b",
+    "Ansi 4 Color": "#61afef",
+    "Ansi 5 Color": "#c678dd",
+    "Ansi 6 Color": "#56b6c2",
+    "Ansi 7 Color": "#bbbbbb",
+    "Ansi 8 Color": "#5c6370",
+    "Ansi 9 Color": "#e06c75",
+    "Ansi 10 Color": "#98c379",
+    "Ansi 11 Color": "#e5c07b",
+    "Ansi 12 Color": "#61afef",
+    "Ansi 13 Color": "#c678dd",
+    "Ansi 14 Color": "#56b6c2",
+    "Ansi 15 Color": "#f8f8f0",
+    "Background Color": "#121212",
+    "Foreground Color": "#bbbbbb",
+    "Bold Color": "#f8f8f0",
+    "Cursor Color": "#f8f8f0",
+    "Cursor Text Color": "#121212",
+    "Selection Color": "#3e4451",
+    "Selected Text Color": "#bbbbbb",
+    "Link Color": "#61afef"
+  }
+}
